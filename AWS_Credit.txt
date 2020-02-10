@@ -1,0 +1,44 @@
+Hello there, 
+
+This is Andrew from AWS Billing and Account team. It was a pleasure talking with you over the phone.
+
+As I mentioned in our conversation, I’m pleased to inform you that we’ve approved a billing adjustment of 199.76 USD for charges on your April bill, which has been applied as a credit to your account. This credit will automatically apply towards this month’s usage and can be referenced in your Account and Billing Console here:
+
+https://console.aws.amazon.com/billing/home#/credits 
+
+To avoid unexpected charges in the future, please make sure to monitor your usage periodically and let us know if you have any questions regarding the billing aspects of our services. A few recommendations include: CloudWatch billing alerts and alarms, budgets, and CloudTrail. For more information on these services and their features, please review the documentation links below: 
+
+https://aws.amazon.com/cloudtrail/getting-started/  
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-cloudwatch.html 
+http://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html 
+
+We would like to remind you, as part of our Service Agreement you are responsible for all activities that occur under your account, including all applicable fees, and charges for the use of our services. 
+
+I believe you'll find this information useful, but please don't hesitate to let us know if you have additional questions. 
+
+Have a great day ahead!
+
+Best regards,
+
+Andrew
+Amazon Web Services
+
+Check out the AWS Support Knowledge Center, a knowledge base of articles and videos that answer customer questions about AWS services: https://aws.amazon.com/premiumsupport/knowledge-center/?icmpid=support_email_category 
+
+We value your feedback. Please rate my response using the link below.
+===================================================
+
+To contact us again about this case, please return to the AWS Support Center using the following URL:
+
+https://console.aws.amazon.com/support/home#/case/?displayId=5994784621&language=en 
+
+(If you are connecting by federation, log in before following the link.)
+
+*Please note: this e-mail was sent from an address that cannot accept incoming e-mail. Please use the link above if you need to contact us again about this same issue.
+
+====================================================================
+Learn to work with the AWS Cloud. Get started with free online videos and self-paced labs at 
+http://aws.amazon.com/training/ 
+====================================================================
+
+Amazon Web Services, Inc. and affiliates
